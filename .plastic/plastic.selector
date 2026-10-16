@@ -1,0 +1,4 @@
+repository "PasantesMouzoHector_ProgramacioDeVideojocsRA2/PasantesMouzoHector_ProgramacioDeVideojocsRA2@6872888443570@cloud"
+  path "/"
+    br "/main"
+    co "/main"
